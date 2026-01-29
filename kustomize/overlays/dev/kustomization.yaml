@@ -7,6 +7,7 @@ resources:
 namePrefix: dev-
 nameSuffix: ""
 
+namespace: dev-kachelmann-demo-tutorial
 patches:
   - path: replicas-patch.yaml
     target:
